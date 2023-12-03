@@ -1,0 +1,11 @@
+.just_for_you .product_item {
+    margin: 15px 0;
+}
+
+/* media css start */
+/* @media (max-width: 767px) {
+    .header_top {
+        display: none;
+    }
+} */
+/* media css end */
